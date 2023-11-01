@@ -3,4 +3,4 @@ Repositório a ser utilizado na disciplina de Gerência, Configuração e Mudan�
 
 Lista de Colaboradores:
 * Niviane Alves (@NivianeCas)
-* 
+* Ramide Dantas (@ramidedantas)
