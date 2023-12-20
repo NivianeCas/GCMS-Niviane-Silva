@@ -24,7 +24,7 @@ class WebAppApplicationTests {
 	}
 	@Test
 	public void testeNivianeEndpoint() throws Exception {
-		this.mockMvc.perform(get("/niviane24"))
+		this.mockMvc.perform(get("/niviane5"))
 				.andDo(print()).andExpect(status().isOk())
 				.andExpect(content()
 						.string(containsString("Hello, Cristina!")));
