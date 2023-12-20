@@ -27,7 +27,7 @@ class WebAppApplicationTests {
 		this.mockMvc.perform(get("/niviane1"))
 				.andDo(print()).andExpect(status().isOk())
 				.andExpect(content()
-						.string(containsString("Hello, Niviane!")));
+						.string(containsString("Hello, Cristina!")));
 	}
 
 
